@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: 'XXX',
         token: 'XXX',
-        playing: 'by Zerio ❤️'
+        playing: 'music! type !!play'
     },
 
     opt: {
