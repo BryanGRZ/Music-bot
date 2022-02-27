@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '!!',
-        token: 'OTQ2MDk0OTgzOTE0NTk4NDQx.YhZtnQ.r_e0TQLENql6JFut4Hv_xEUVPhw',
+        token: 'OTQ3NDQ5NjY4NTA4NDY3MjUx.YhtbQw.-YkqwAkjnm8EY5H06tvp8hYBCCY',
         playing: 'music! type !!play'
     },
 
